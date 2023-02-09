@@ -1,0 +1,11 @@
+id: 8f280f32c5a64716a0f62691859e5087
+annotation_type: index
+revision: '00001'
+annotations:
+  8ea77b9152ae4261962d0c2e5fb93688:
+    base: 55B1.txt
+    Chapters:
+    - title: Bhikṣuṇīprātimokṣa
+      span:
+        start: 0
+        end: 5667
